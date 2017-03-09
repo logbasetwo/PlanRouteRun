@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PlanRouteRun</string>
+    <string name="title_activity_maps">Plan Route Run</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="satellite">Satellite</string>
+    <string name="terrain">Terrain</string>
+    <string name="normal">Normal</string>
+</resources>

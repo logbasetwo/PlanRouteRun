@@ -1,0 +1,7 @@
+#Wed Mar 08 20:18:33 EST 2017
+base.0=C\:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be0d2b65c83f79880dec5478581b8ae842aa1b30
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6c1b05d8c7677074e60986bdd85ed10ea920bd6\\classes.dex
+base.1=C\:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_c6c1b05d8c7677074e60986bdd85ed10ea920bd6
+file.0=C\:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_be0d2b65c83f79880dec5478581b8ae842aa1b30\\classes.dex

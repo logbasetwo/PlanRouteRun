@@ -1,0 +1,1211 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-10.0.1_f163c340e8073d806b3697c78545b3263dfb2c9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-10.0.1_501913a1b3f30b518b4764c02754d357df7fe202\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-10.0.1_edc0de3e1f1576dd730ba3489c7a30941b6bdc65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_5959a6cfce8ab0a480afa3a23a210b6606ba4b2d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-10.0.1_524c598502b77bb942f12c73a11a851753adbb9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-10.0.1_ed5b67f51a5233b113bf2dde4e6cd6ad0277f499.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-10.0.1_5e8366999e826cb6f0fbf98ef5238eea8af7a573.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-10.0.1_5c8957518d5efb05c279619bfd1f62b63abd2352\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-10.0.1_c66ec726ba2860f709c573a21ced5128635afd7b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-24.2.1_a610520c5f5b8b65c8e118b248c2b960766cf0b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-10.0.1_81c834f4fe9a04601ab5c2b758ce7e984359c137\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-10.0.1_8b4d42091d0fce19202506415f207db6c4ff6e09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-10.0.1_8b44e161e7277588a5c02b128ccbc336d0ea59aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.1_abcadc7cc2528264437d1c65fd33fd4bd7bd9947.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_c79d70aa48e4e4c0d8610392cbbfe60b939dbf7f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-10.0.1_351a3d6514f64b0142c975457de061a89cad8bbd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-10.0.1_a7385bb449c9a870522c97fd5b19ce0cff2193cb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-10.0.1_e925cc43e827c75ff8b0b3f7ee61b4bab82b3a17\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-10.0.1_3d4e658f102061bc5ff18fab6e3b029a91d59216\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-10.0.1_6953d58255d7a26fb20c12072a6d245cadad35c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4c829ff0ccfecb28a999ee46d9e75948dfc777a4">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-10.0.1_c66ec726ba2860f709c573a21ced5128635afd7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2d5d113b0352ab60946fc44c518cf68fd26cbb79">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-10.0.1_524c598502b77bb942f12c73a11a851753adbb9f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="acf3dea8b83c41282d749e669dadfc322d344520">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_c6c1b05d8c7677074e60986bdd85ed10ea920bd6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-10.0.1_56aec047f068c6cf73c0a568f61c35c1f46be7bb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-10.0.1_22af1ed11ebe8fb8e7641da5147a383a5f38c122.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-10.0.1_359ec878f541730f5fbf18e592165cfed889703e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.1_e74b9cc40c3069d7dc43eb24fdbbeac1a61ebfea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-24.0.0_b3b11c04a19e59e5462f81e969d55ea1ea2a6581.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.1_c25dab67dd2531be9c154f662b2a50e1e434a171.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-24.2.1_abcadc7cc2528264437d1c65fd33fd4bd7bd9947\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gass-10.0.1_dc65b0b5d4e6c30175dc6b080e17b5e9816113c7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-10.0.1_d4e6d1d992fba651c5f57788ed13d62161930114\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_33d641acc3e1bc43ee2bb29e821b00fd067dd536.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-10.0.1_429dd2430585078e6b5de72a5b40b20ce387576b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-10.0.1_923f0fd3b012019fa377956d338628720fed8fc7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-clearcut-10.0.1_32b640cd3cbbac6da24039fc1269939f922dcc3f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-10.0.1_e6dd6053053e491c1624a5b8f2d5bac380c744b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-instantapps-10.0.1_c6acc6ff36b4920e481154ba842efa8a909124f1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-24.0.0_9c8a11531f407e8a095bb663357b99ca3bb68569\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-10.0.1_f03735f68947721b4ceb630c8e713ada4da8f965\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-10.0.1_d1a67d6c20b6e976791e4fa1fde891bc12c6b149.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f23ad0f8e58713ff4b55f61c0bbde3830378347c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-v4-impl-10.0.1_5959a6cfce8ab0a480afa3a23a210b6606ba4b2d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f3e51e9c5233b8897f61e08a6a27bc36283c2724">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-places-10.0.1_edc0de3e1f1576dd730ba3489c7a30941b6bdc65.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c6e1f361e9d61aece9dac39b77fcc98a337a144d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-10.0.1_8b4d42091d0fce19202506415f207db6c4ff6e09\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-24.2.1_2e6b805133c9954f3e2654d49bbeabdc49f585cc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9cca2818594cc5348806d6662133491e7ea0fa8d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-10.0.1_8b44e161e7277588a5c02b128ccbc336d0ea59aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-24.2.1_8ea9f9420d23e813e6dce5919dba6568cc4acf86\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-10.0.1_97d1680b464e45a1327c88711ed0825599f45d06\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-10.0.1_8e412e7f4bff25df56e1190c35f1a25dd4ecd60d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-10.0.1_7afd0c11b0335d48ba10cb44e6286bca30a6057e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-10.0.1_56aec047f068c6cf73c0a568f61c35c1f46be7bb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-10.0.1_22af1ed11ebe8fb8e7641da5147a383a5f38c122\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-appindexing-10.0.1_dbfc9f00495eb445d516154e9a781aa1d9b6c1bc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-10.0.1_916cffd5e5df3b8531b24d386964db423b3112b2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-10.0.1_00af973b411220a678d0fbb8d8b6dbe7b0578952.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="028f8255cb977b29cdffbfcf05caa0459686120c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-10.0.1_359ec878f541730f5fbf18e592165cfed889703e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-10.0.1_fffff9ec479886a654af774c4a2f5b08334fb8c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-10.0.1_e897a1dae0d409d49cef9b698c8726067f784053\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-24.2.1_f06da131c2d2fcf47ff2e755c0da60c8d37e5b34\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-10.0.1_9612931efdc7b12309caa1f345162b3cc15caad0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-24.2.1_8519f33e5b25892b673649e548ae47ebd578be2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_33d641acc3e1bc43ee2bb29e821b00fd067dd536\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="27777b3cad3c20b1acab19f6e37fe3e03371bf6e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-10.0.1_d4e6d1d992fba651c5f57788ed13d62161930114.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-10.0.1_65c88abc981f3274ca6453a810c9aa404143cfb8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="45305e6af414dab5aba6c3225081c2f15c3bdd1e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-instantapps-10.0.1_c6acc6ff36b4920e481154ba842efa8a909124f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1d193729baf37df3d902a423291423a0df7e3779">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-10.0.1_32b640cd3cbbac6da24039fc1269939f922dcc3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09cf6aa1390f95157e8295d02be7868f568825fc">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-10.0.1_429dd2430585078e6b5de72a5b40b20ce387576b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-10.0.1_dc65b0b5d4e6c30175dc6b080e17b5e9816113c7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-10.0.1_7240aa1c8c39950d415a7c9c44cfb7c599f1b7de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7a64bf6dc775198eed9db9468a133adf7dfe6562">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-10.0.1_923f0fd3b012019fa377956d338628720fed8fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1e11c68fec92a17c84dd8d1dd80e74c4e67b12e2">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-10.0.1_e6dd6053053e491c1624a5b8f2d5bac380c744b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-10.0.1_1e9e0754d0f36db2d5afc8d9210abe2b5f6be018\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-awareness-10.0.1_2626667f7073828eacc8853ae8c29f9562d69561\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b327fbe2fad414bc38cf0ce8f7efe1a38f572837">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-24.0.0_9c8a11531f407e8a095bb663357b99ca3bb68569.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-10.0.1_0bb7c1e4eb535e28ea61283b4e431e9a7537c596\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-10.0.1_ddec9172febe1d50dd84082c22e61e801b843f7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e96c6974cf924e7ee3b230e6847d5731423388c9">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-10.0.1_f03735f68947721b4ceb630c8e713ada4da8f965.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-10.0.1_d1a67d6c20b6e976791e4fa1fde891bc12c6b149\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-10.0.1_eddecd2cbd5d234d83f01d5f2ee11a8d0cff16fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-10.0.1_963b53bed31c992dcd778d4621a091e7485f31ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_bfaccfafde141930710ea50a96ae7f63068345a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.1_2e6b805133c9954f3e2654d49bbeabdc49f585cc.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="dd39827d2067497e60e21da48a7926000b6d4b0c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-10.0.1_8e412e7f4bff25df56e1190c35f1a25dd4ecd60d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0_c97c3be27ac46fe057bad6d22e655aa52e3088c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e871881b36b32e6bfd271a830c6eeb54ff0fc185">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-10.0.1_97d1680b464e45a1327c88711ed0825599f45d06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.1_8ea9f9420d23e813e6dce5919dba6568cc4acf86.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-10.0.1_fdf39ef3a600b5e5318d1a77f28215a6bc83b1a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_114a256d8653274644bb1fd725e66afb65c56e88.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="df1cb17511aabbb63264a0024949d1e42502a512">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-framework-10.0.1_916cffd5e5df3b8531b24d386964db423b3112b2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-24.2.1_ed656c868a6181707533d50d3b7bc2fc2fbea8ea\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b1df8fa3d372a27e4e969ce00b00689ee1eed031">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-10.0.1_e897a1dae0d409d49cef9b698c8726067f784053.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-10.0.1_e304c43db9bc6a36c921bc6147ffe298baef1384\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="408a599ac77cd17fe8e8919326bec617b3d005bd">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-10.0.1_00af973b411220a678d0fbb8d8b6dbe7b0578952\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ae80d328a8548b4610ead6c624bab8c6a6984f5b">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-appindexing-10.0.1_dbfc9f00495eb445d516154e9a781aa1d9b6c1bc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_f70cd9dd03714d2892d09bcdfd3bd2f63b6bfd3b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="44a694d4095be84c2888764b1f7256b385c030ad">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-10.0.1_fffff9ec479886a654af774c4a2f5b08334fb8c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.1_f06da131c2d2fcf47ff2e755c0da60c8d37e5b34.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f6cf557be4dbd0282ea2388633e5378634423226">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-10.0.1_9612931efdc7b12309caa1f345162b3cc15caad0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.1_463c251f04b3bd6e49568366bc4344719bce6202.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e1fb491e13672a1985a281cb1cf2a8c9b39de7f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_be0d2b65c83f79880dec5478581b8ae842aa1b30\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.1_8519f33e5b25892b673649e548ae47ebd578be2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4b17463c814bdc562fb0392fa3494063623a0904">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-10.0.1_501913a1b3f30b518b4764c02754d357df7fe202.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="92c871a22463a247e8a77a9f3fd231c278788c4a">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-10.0.1_7240aa1c8c39950d415a7c9c44cfb7c599f1b7de\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-10.0.1_65c88abc981f3274ca6453a810c9aa404143cfb8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="39907d5c8f5902fffef30160ca7447c93b82405c">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-10.0.1_1e9e0754d0f36db2d5afc8d9210abe2b5f6be018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ffc15e965a9e8c28f24455eedd4cac215c45d1fc">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-10.0.1_f163c340e8073d806b3697c78545b3263dfb2c9d.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-10.0.1_ed5b67f51a5233b113bf2dde4e6cd6ad0277f499\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-10.0.1_ddec9172febe1d50dd84082c22e61e801b843f7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a48dc0b148059764d32500be558702d5ff932058">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-10.0.1_81c834f4fe9a04601ab5c2b758ce7e984359c137.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4385ccc0a88b33d182a836eadb47be55c8eb1107">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-awareness-10.0.1_2626667f7073828eacc8853ae8c29f9562d69561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.1_ed656c868a6181707533d50d3b7bc2fc2fbea8ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6bb5d347ebc0c6ef3c83a905222a688da5d2f7b4">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-10.0.1_7afd0c11b0335d48ba10cb44e6286bca30a6057e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-10.0.1_963b53bed31c992dcd778d4621a091e7485f31ec\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-10.0.1_5c8957518d5efb05c279619bfd1f62b63abd2352.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8308ed003522a2ee8958311afcc4cfd0470377cd">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-10.0.1_5e8366999e826cb6f0fbf98ef5238eea8af7a573\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_bfaccfafde141930710ea50a96ae7f63068345a8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="971509bbe30bb7b971fc1c49d7b23d0d818830ac">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-10.0.1_eddecd2cbd5d234d83f01d5f2ee11a8d0cff16fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-10.0.1_0bb7c1e4eb535e28ea61283b4e431e9a7537c596.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-24.2.1_463c251f04b3bd6e49568366bc4344719bce6202\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c14f0c89f28cf782e42581ab0aba5f63af39b3d2">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-10.0.1_3d4e658f102061bc5ff18fab6e3b029a91d59216.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="771267c5b0c7a5b348d3205dcfa1f871af7e0177">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-10.0.1_e925cc43e827c75ff8b0b3f7ee61b4bab82b3a17.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_c79d70aa48e4e4c0d8610392cbbfe60b939dbf7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ba6aa5e69ef31dee57208125323cee958fc67565">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-10.0.1_fdf39ef3a600b5e5318d1a77f28215a6bc83b1a5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2185aff89caeb337b1ffc36d5e525d8318e7cfe">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-10.0.1_a7385bb449c9a870522c97fd5b19ce0cff2193cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.1_a610520c5f5b8b65c8e118b248c2b960766cf0b7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.2.1_114a256d8653274644bb1fd725e66afb65c56e88\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="de29a39f9260f88151b1ef453140e71c76b6c415">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-10.0.1_6953d58255d7a26fb20c12072a6d245cadad35c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\jars\libs\internal_impl-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b6763651ec29b4c95e7bbe63fc393ffcc8c4c2c5">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-24.0.0_c97c3be27ac46fe057bad6d22e655aa52e3088c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-10.0.1_351a3d6514f64b0142c975457de061a89cad8bbd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="734e80dffea7bd76c18ae256822a124c30d85850">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-palette-v7-24.0.0_b3b11c04a19e59e5462f81e969d55ea1ea2a6581\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-24.2.1_e74b9cc40c3069d7dc43eb24fdbbeac1a61ebfea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\matthew\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\24.2.1\support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-24.2.1_c25dab67dd2531be9c154f662b2a50e1e434a171\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-10.0.1_e304c43db9bc6a36c921bc6147ffe298baef1384.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\jars\libs\internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.1_f70cd9dd03714d2892d09bcdfd3bd2f63b6bfd3b.jar" />
+    </item>
+
+</items>
