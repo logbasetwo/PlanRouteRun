@@ -5,4 +5,5 @@
     <string name="satellite">Satellite</string>
     <string name="terrain">Terrain</string>
     <string name="normal">Normal</string>
+    <item name="latlongtest" type="id" />
 </resources>

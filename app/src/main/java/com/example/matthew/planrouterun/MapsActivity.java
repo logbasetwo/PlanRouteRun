@@ -3,14 +3,17 @@ package com.example.matthew.planrouterun;
 import android.*;
 import android.Manifest;
 import android.content.pm.PackageManager;
+import android.graphics.Color;
 import android.location.Location;
 import android.os.Build;
 import android.os.Bundle;
 import android.support.annotation.NonNull;
 import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.widget.TextView;
 import android.widget.Toast;
 
 
@@ -23,14 +26,26 @@ import com.google.android.gms.maps.SupportMapFragment;
 
 import com.google.android.gms.maps.model.LatLng;
 
+import com.google.android.gms.maps.model.Marker;
 import com.google.android.gms.maps.model.MarkerOptions;
+import com.google.android.gms.maps.model.PolylineOptions;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
+import java.util.List;
+
+import static java.lang.Thread.*;
+
 
 public class MapsActivity extends AppCompatActivity implements OnMapReadyCallback {
 
     private GoogleMap mMap; //googleMap
     private final static int MY_PERMISSION_FINE_LOCATION = 101;
+    ArrayList<LatLng> MarkerPoints;
+    GoogleApiClient mGoogleApiClient;
+    Location mLastLocation;
+    Marker mCurrLocationMarker;
+    LocationRequest mLocationRequest;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,6 +56,9 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         SupportMapFragment mapFragment = (SupportMapFragment) getSupportFragmentManager()
                 .findFragmentById(R.id.map);
         mapFragment.getMapAsync(this);
+
+        // MANUAL MODE:
+        ////////    addLines();  //////// Infinite loop need to fix, crashes app
 
     }
 
@@ -65,6 +83,10 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
             return true;
         } else if (id == R.id.action_normal) {
             mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL);
+            return true;
+        }
+          else if (id == R.id.clear_pins) {
+            mMap.clear();
             return true;
         }
         return super.onOptionsItemSelected(item);
@@ -104,6 +126,23 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
         mMap.moveCamera(CameraUpdateFactory.newLatLng(MattPos));
         mMap.setMapType(GoogleMap.MAP_TYPE_NORMAL); // CHANGE MAP TYPE!!!
         //mMap.setTrafficEnabled(true);
+        mMap.setOnMapClickListener(new GoogleMap.OnMapClickListener() {
+
+            @Override
+            public void onMapClick(LatLng point) {
+                // TODO Auto-generated method stub
+                //MattPos.add(point);
+                //mMap.clear();
+                mMap.addMarker(new MarkerOptions().position(point).draggable(true));
+            }
+        });
+
+        ////// MANUAL MODE TEMP: //////
+        mMap.addPolyline(new PolylineOptions().add(
+                new LatLng(40.7659370,-77.8731410),
+                new LatLng(40.7705440,-77.8665170)
+                ).width(10).color(Color.BLUE)
+        );
 
 
     }
@@ -124,5 +163,55 @@ public class MapsActivity extends AppCompatActivity implements OnMapReadyCallbac
                 }
                 break;
         }
+    }
+    // Trying to add support for manual routes:
+    private void addLines(){
+        /*
+        LatLng cur = new LatLng(0, 0);
+        LinkedList<LatLng> pins = new LinkedList<LatLng>();
+        int i = 0;
+        LatLng start = new LatLng(0, 0);
+        start = mCurrLocationMarker.getPosition();
+
+        while (true) {
+            if (mCurrLocationMarker.getPosition() == cur) {
+                try {
+                    Thread.sleep(1000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                    break;
+                }
+            } else{
+                if(cur.equals(start)) { // Should only happen once, more efficient than seperate else if
+                    pins.add(i, start);
+                    i++;
+                }
+                cur = mCurrLocationMarker.getPosition();
+                pins.add(i, cur);
+                i++;
+            }
+            mMap
+                    .addPolyline((new PolylineOptions())
+                            .add(pins.get(i-1), pins.get(i)).width(5).color(Color.BLUE)
+                            .geodesic(true));
+            // move camera to zoom on map
+            mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mCurrLocationMarker.getPosition(), 13));
+            //Log.d("LOGTAG", "This is a fucking test"); //String.valueOf(mCurrLocationMarker.getPosition())
+            TextView latlongtest;
+            String output = "" + mCurrLocationMarker.getPosition();
+            latlongtest = (TextView)findViewById(R.id.latlongtest);
+            latlongtest.setText(output);
+            //////////
+        mMap.addPolyline(new PolylineOptions().add(
+                                new LatLng(40.7659370,-77.8731410),
+                                new LatLng(40.7705440,-77.8665170)
+                        ).width(10).color(Color.BLUE)
+        );
+        */
+        // move camera to zoom on map
+        //mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(mCurrLocationMarker.getPosition(), 13));
+
+
+
     }
 }

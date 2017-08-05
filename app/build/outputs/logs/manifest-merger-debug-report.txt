@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:2:1-67:12
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:2:1-69:12
 	package
 		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:3:5-47
 		INJECTED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml
@@ -15,68 +15,68 @@ ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\Andr
 		INJECTED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml
 uses-sdk
 ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:11:5-13:38
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.0.1\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:22:5-42
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:21:5-23:60
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\10.0.1\AndroidManifest.xml:4:5-42
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:23:5-42
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:20:5-42
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-instantapps\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\10.0.1\AndroidManifest.xml:17:5-42
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\AndroidManifest.xml:3:5-42
-MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\10.0.1\AndroidManifest.xml:18:5-42
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\matthew\.android\build-cache\6d5650608be436cbd0dd2677b4fb933ba79c061d\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-ads:10.0.1] C:\Users\matthew\.android\build-cache\f4cb5d39a742498c5cc4666da9f657f7d492be39\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:22:5-42
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\matthew\.android\build-cache\dd2c0e88651bf32d93e2f6a68bac44702f4f1332\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\matthew\.android\build-cache\69b3d8eaca39cf5736ec621c601f9189dc37a81e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\matthew\.android\build-cache\53bf67697cec7cc03932aeced7c5f380e241c6b6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\matthew\.android\build-cache\9ddc97db2b48ef33f2b5cf0aa8a35e05a4ca4e56\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matthew\.android\build-cache\7fad955ed678761d9b6a945d4af894d8c49d95cd\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\matthew\.android\build-cache\39ecc18df7e4e36edb2d9e698bb6b2f45ccf9985\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\matthew\.android\build-cache\93a1a34216180572ba14b96ba875fe5f209c5517\output\AndroidManifest.xml:21:5-43
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\matthew\.android\build-cache\c17f4518c199910437220c76ab1c8a4d187cc96e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\matthew\.android\build-cache\c072a2fee8602c61b73b7557abc5ad2dbbeeaac9\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\matthew\.android\build-cache\eaad433d3325ddfd635b863235b3dac9620c2a35\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\.android\build-cache\c5b25e0f149c364b75b1f9d71022c3609fbfc3e1\output\AndroidManifest.xml:20:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\matthew\.android\build-cache\4a70749949672fad609ee38c6c2dd23a4bec9d48\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\matthew\.android\build-cache\462efe2be38fd42356bcd48c5f0ebdde48f7af81\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\matthew\.android\build-cache\661047e9ff4a5f4f82553080ee2ad09ff8a50941\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-storage:10.0.1] C:\Users\matthew\.android\build-cache\78e1fa24a73c6797b042171ff46435a4b7f60823\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-storage-common:10.0.1] C:\Users\matthew\.android\build-cache\d5ce820105586aa04d30c28494d19b37bce06c89\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\matthew\.android\build-cache\85f55ef952c6626a9ee795b131004572aff7bbb8\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\matthew\.android\build-cache\0519f455ad27fd646a3eb5ff03dd0189628a79c0\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\matthew\.android\build-cache\7baa00a060f55604522a2a16ed2f368b4e2e2f45\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\matthew\.android\build-cache\1b49bf055a22200f7389de73b0a8b784bd64b684\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\.android\build-cache\8988beb4d599e0bacda6271b915d96ebbd969fca\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\matthew\.android\build-cache\f76b069a9a913903e3549772fd4489c3b2d42070\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\.android\build-cache\f88e81e17a1d6d2f774f1e473699f354bdfee4c2\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-instantapps:10.0.1] C:\Users\matthew\.android\build-cache\9630778c9d9e01353d6b05876984b135941ba52a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\matthew\.android\build-cache\fa0b0caadfba5c26d15a8c6ccde2f608cef5428a\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\.android\build-cache\8398b595ffa44e7d20c524bb7d519a62e4a51c94\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\matthew\.android\build-cache\f12a052a2e921af55e020d0b97bb2a06d061d28c\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\matthew\.android\build-cache\4a65577980716ce20a655016b48fc8d771b43c77\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\matthew\.android\build-cache\21fd1d654e153ef3dfb52363876de490ed94ea82\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\matthew\.android\build-cache\d0b65f2f5d2423dd3c695b240d255e7c7243c1a3\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager:10.0.1] C:\Users\matthew\.android\build-cache\6e18908ee7a599192489bd1e5cda6e4e3590c7be\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\matthew\.android\build-cache\965ee21f326abc092bc621f9db75548091e1897d\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\5d8c3bd393fca993bb070204b969262cbde96cfb\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\matthew\.android\build-cache\314b070e383bac49c0d958ee2fd7bbe2cba26227\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-wallet:10.0.1] C:\Users\matthew\.android\build-cache\95f66100113d89a907f7ac689098bc0d8a590803\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\matthew\.android\build-cache\83bad6a5d6d2a263a8ae56fb973886be9f25799a\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\matthew\.android\build-cache\eb34286ca6276bb808c6576d557687e440f91877\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\.android\build-cache\524229f8647799df2fc1f3a03c536a30a5afc3ca\output\AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\matthew\.android\build-cache\620da9e1e0f2f7ea6c051cb8febd3afc569d5a9d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\.android\build-cache\2cf9062d70218db25830efae137adfc13d545742\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\matthew\.android\build-cache\f983d807744653f046ddfb22c0f1b2e5093e12f8\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\matthew\.android\build-cache\17072735f97b9b12b66f63b1f9e063644bc66181\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\matthew\.android\build-cache\3efa60effce30116b5c65725b601e08a7ecfe11c\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matthew\.android\build-cache\8da8a98f0b1d9fc72c85115a75e121cd6f802a84\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\matthew\.android\build-cache\9e3a24f7181654f2b9bc14747303ace29f820e80\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matthew\.android\build-cache\093b69006be3de57d45bb285ade21a07c398e594\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:support-v4:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:23:9-51
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matthew\.android\build-cache\7fad955ed678761d9b6a945d4af894d8c49d95cd\output\AndroidManifest.xml:23:9-75
 	android:maxSdkVersion
 		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:13:9-35
 	android:targetSdkVersion
@@ -92,373 +92,377 @@ ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\Andr
 		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:16:9-44
 	android:name
 		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:15:9-80
+uses-permission#com.example.matthew.planrouterun.permission.MAPS_RECEIVE
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:18:5-96
+	android:name
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:18:22-93
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:18:5-67
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:19:5-66
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:18:5-66
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:20:5-66
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:21:5-66
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:20:5-66
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:19:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:19:5-66
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\.android\build-cache\c5b25e0f149c364b75b1f9d71022c3609fbfc3e1\output\AndroidManifest.xml:18:5-66
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\.android\build-cache\8988beb4d599e0bacda6271b915d96ebbd969fca\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\.android\build-cache\f88e81e17a1d6d2f774f1e473699f354bdfee4c2\output\AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\5d8c3bd393fca993bb070204b969262cbde96cfb\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\.android\build-cache\524229f8647799df2fc1f3a03c536a30a5afc3ca\output\AndroidManifest.xml:20:5-66
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:18:22-64
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:19:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:19:5-79
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:20:5-78
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:19:5-78
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:19:5-78
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:21:5-78
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:4:5-78
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:21:5-78
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:20:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:20:5-78
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\.android\build-cache\8398b595ffa44e7d20c524bb7d519a62e4a51c94\output\AndroidManifest.xml:4:5-78
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:19:5-78
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\5d8c3bd393fca993bb070204b969262cbde96cfb\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\.android\build-cache\524229f8647799df2fc1f3a03c536a30a5afc3ca\output\AndroidManifest.xml:19:5-78
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:19:22-76
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:20:22-76
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:20:5-81
-	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:20:22-78
-uses-permission#android.permission.ACCESS_COARSE_LOCATION
 ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:21:5-81
 	android:name
 		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:21:22-78
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:22:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:22:5-79
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:23:5-79
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:22:22-76
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:23:22-76
 uses-permission#com.google.android.providers.gsf.permission.READ_GSERVICES
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:23:5-98
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:24:5-98
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:23:22-95
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:24:22-95
 uses-feature#0x00020000
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:25:5-27:34
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:21:5-77
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:26:5-28:34
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\.android\build-cache\524229f8647799df2fc1f3a03c536a30a5afc3ca\output\AndroidManifest.xml:21:5-77
 	android:glEsVersion
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:26:9-41
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:27:9-41
 	android:required
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:27:9-32
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:28:9-32
 application
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:29:5-65:19
-MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\10.0.1\AndroidManifest.xml:5:5-20
-MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:23:5-27:19
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:19:5-21:19
-MERGED from [com.android.support:support-v4:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:18:5-20:19
-MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:26:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-v4-impl\10.0.1\AndroidManifest.xml:19:5-19
-MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:19:5-26:19
-MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:19:5-25:19
-MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:4:5-8:19
-MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\24.0.0\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\palette-v7\24.0.0\AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.1\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.1\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.1\AndroidManifest.xml:22:5-20
-MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:28:5-50:19
-MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:4:5-7:19
-MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-awareness\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\10.0.1\AndroidManifest.xml:24:5-19
-MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\10.0.1\AndroidManifest.xml:22:5-23:19
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:24:5-33:19
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:24:5-28:19
-MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\10.0.1\AndroidManifest.xml:19:5-20:19
-MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:19:5-29:19
-MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:23:5-19
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:23:5-19
-MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-appindexing\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\10.0.1\AndroidManifest.xml:5:5-19
-MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\10.0.1\AndroidManifest.xml:18:5-19
-MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:23:5-33:19
-MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\10.0.1\AndroidManifest.xml:4:5-19
-MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\10.0.1\AndroidManifest.xml:18:5-19
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:30:5-67:19
+MERGED from [com.google.android.gms:play-services:10.0.1] C:\Users\matthew\.android\build-cache\6d5650608be436cbd0dd2677b4fb933ba79c061d\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:23:5-27:19
+MERGED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:19:5-26:19
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:4:5-8:19
+MERGED from [com.google.android.gms:play-services-cast:10.0.1] C:\Users\matthew\.android\build-cache\69b3d8eaca39cf5736ec621c601f9189dc37a81e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.android.support:mediarouter-v7:24.0.0] C:\Users\matthew\.android\build-cache\53bf67697cec7cc03932aeced7c5f380e241c6b6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:palette-v7:24.0.0] C:\Users\matthew\.android\build-cache\9ddc97db2b48ef33f2b5cf0aa8a35e05a4ca4e56\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\matthew\.android\build-cache\7fad955ed678761d9b6a945d4af894d8c49d95cd\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\matthew\.android\build-cache\39ecc18df7e4e36edb2d9e698bb6b2f45ccf9985\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\matthew\.android\build-cache\93a1a34216180572ba14b96ba875fe5f209c5517\output\AndroidManifest.xml:23:5-20
+MERGED from [com.google.android.gms:play-services-clearcut:10.0.1] C:\Users\matthew\.android\build-cache\c17f4518c199910437220c76ab1c8a4d187cc96e\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-config:10.0.1] C:\Users\matthew\.android\build-cache\c072a2fee8602c61b73b7557abc5ad2dbbeeaac9\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-awareness:10.0.1] C:\Users\matthew\.android\build-cache\eaad433d3325ddfd635b863235b3dac9620c2a35\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.firebase:firebase-crash:10.0.1] C:\Users\matthew\.android\build-cache\c5b25e0f149c364b75b1f9d71022c3609fbfc3e1\output\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\matthew\.android\build-cache\4a70749949672fad609ee38c6c2dd23a4bec9d48\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.android.gms:play-services-fitness:10.0.1] C:\Users\matthew\.android\build-cache\85f55ef952c6626a9ee795b131004572aff7bbb8\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-games:10.0.1] C:\Users\matthew\.android\build-cache\0519f455ad27fd646a3eb5ff03dd0189628a79c0\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-drive:10.0.1] C:\Users\matthew\.android\build-cache\7baa00a060f55604522a2a16ed2f368b4e2e2f45\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-gass:10.0.1] C:\Users\matthew\.android\build-cache\1b49bf055a22200f7389de73b0a8b784bd64b684\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\.android\build-cache\8988beb4d599e0bacda6271b915d96ebbd969fca\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.firebase:firebase-appindexing:10.0.1] C:\Users\matthew\.android\build-cache\f76b069a9a913903e3549772fd4489c3b2d42070\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\.android\build-cache\f88e81e17a1d6d2f774f1e473699f354bdfee4c2\output\AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-location:10.0.1] C:\Users\matthew\.android\build-cache\fa0b0caadfba5c26d15a8c6ccde2f608cef5428a\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-nearby:10.0.1] C:\Users\matthew\.android\build-cache\8398b595ffa44e7d20c524bb7d519a62e4a51c94\output\AndroidManifest.xml:5:5-19
+MERGED from [com.google.android.gms:play-services-panorama:10.0.1] C:\Users\matthew\.android\build-cache\f12a052a2e921af55e020d0b97bb2a06d061d28c\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-places:10.0.1] C:\Users\matthew\.android\build-cache\4a65577980716ce20a655016b48fc8d771b43c77\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-plus:10.0.1] C:\Users\matthew\.android\build-cache\21fd1d654e153ef3dfb52363876de490ed94ea82\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-safetynet:10.0.1] C:\Users\matthew\.android\build-cache\d0b65f2f5d2423dd3c695b240d255e7c7243c1a3\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:23:5-33:19
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:10.0.1] C:\Users\matthew\.android\build-cache\965ee21f326abc092bc621f9db75548091e1897d\output\AndroidManifest.xml:19:5-19
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\5d8c3bd393fca993bb070204b969262cbde96cfb\output\AndroidManifest.xml:26:5-19
+MERGED from [com.google.android.gms:play-services-vision:10.0.1] C:\Users\matthew\.android\build-cache\314b070e383bac49c0d958ee2fd7bbe2cba26227\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-identity:10.0.1] C:\Users\matthew\.android\build-cache\83bad6a5d6d2a263a8ae56fb973886be9f25799a\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-wearable:10.0.1] C:\Users\matthew\.android\build-cache\eb34286ca6276bb808c6576d557687e440f91877\output\AndroidManifest.xml:18:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] C:\Users\matthew\.android\build-cache\524229f8647799df2fc1f3a03c536a30a5afc3ca\output\AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\matthew\.android\build-cache\620da9e1e0f2f7ea6c051cb8febd3afc569d5a9d\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\.android\build-cache\2cf9062d70218db25830efae137adfc13d545742\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.2.1] C:\Users\matthew\.android\build-cache\f983d807744653f046ddfb22c0f1b2e5093e12f8\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:24.2.1] C:\Users\matthew\.android\build-cache\17072735f97b9b12b66f63b1f9e063644bc66181\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:24.2.1] C:\Users\matthew\.android\build-cache\3efa60effce30116b5c65725b601e08a7ecfe11c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:24.2.1] C:\Users\matthew\.android\build-cache\8da8a98f0b1d9fc72c85115a75e121cd6f802a84\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:24.2.1] C:\Users\matthew\.android\build-cache\9e3a24f7181654f2b9bc14747303ace29f820e80\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:24.2.1] C:\Users\matthew\.android\build-cache\093b69006be3de57d45bb285ade21a07c398e594\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:32:9-41
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:33:9-41
 	android:supportsRtl
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:33:9-35
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:34:9-35
 	android:allowBackup
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:30:9-35
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:31:9-35
 	android:icon
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:31:9-43
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:32:9-43
 	android:theme
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:34:9-40
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:35:9-40
 meta-data#com.google.android.geo.API_KEY
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:44:9-46:55
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:45:9-47:71
 	android:value
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:46:13-52
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:47:13-68
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:45:13-58
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:46:13-58
 meta-data#com.google.android.gms.version
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:47:9-49:69
-MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\AndroidManifest.xml:20:9-121
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:49:9-51:69
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\matthew\.android\build-cache\2cf9062d70218db25830efae137adfc13d545742\output\AndroidManifest.xml:20:9-121
 	android:value
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:49:13-66
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:51:13-66
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:48:13-58
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:50:13-58
 activity#com.example.matthew.planrouterun.SplashScreen
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:51:9-59:20
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:53:9-61:20
 	android:label
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:53:13-56
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:55:13-56
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:52:13-41
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:54:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:54:13-58:29
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:56:13-60:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:55:17-69
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:57:17-69
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:55:25-66
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:57:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:57:17-77
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:59:17-77
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:57:27-74
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:59:27-74
 activity#com.example.matthew.planrouterun.MapsActivity
-ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:61:9-62:58
+ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:63:9-64:58
 	android:label
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:62:13-45
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:64:13-45
 	android:name
-		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:61:19-47
+		ADDED from C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\src\main\AndroidManifest.xml:63:19-47
 activity#com.google.android.gms.ads.AdActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:9-232
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:25:9-232
 	android:configChanges
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:72-181
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:25:72-181
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:182-230
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:25:182-230
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:25:19-71
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:25:19-71
 activity#com.google.android.gms.ads.purchase.InAppPurchaseActivity
-ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:9-131
+ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:26:9-131
 	android:theme
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:92-129
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:26:92-129
 	android:name
-		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\AndroidManifest.xml:26:19-91
-activity#com.google.android.gms.common.api.GoogleApiActivity
-ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:9-172
-	android:exported
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:146-170
-	android:theme
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:86-145
-	android:name
-		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\AndroidManifest.xml:19:19-85
+		ADDED from [com.google.android.gms:play-services-ads-lite:10.0.1] C:\Users\matthew\.android\build-cache\b5ff789329b210f91d05da5349ba370eb7dcd27c\output\AndroidManifest.xml:26:19-91
 uses-permission#android.permission.WAKE_LOCK
-ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:24:5-67
-MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\10.0.1\AndroidManifest.xml:24:5-67
-MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:21:5-67
-MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:22:5-67
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:22:5-67
+ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\5d8c3bd393fca993bb070204b969262cbde96cfb\output\AndroidManifest.xml:24:5-67
 	android:name
-		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\10.0.1\AndroidManifest.xml:24:22-65
+		ADDED from [com.google.android.gms:play-services-analytics:10.0.1] C:\Users\matthew\.android\build-cache\1f4e8f80bb7a36188a6727f08524390311b39d3f\output\AndroidManifest.xml:24:22-65
 activity#com.google.android.gms.appinvite.PreviewActivity
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:9-25:20
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:20:9-25:20
 	android:exported
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:51-74
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:20:51-74
 	android:theme
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:75-121
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:20:75-121
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:20:19-50
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:20:19-50
 intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:21:13-24:29
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:21:13-24:29
 action#com.google.android.gms.appinvite.ACTION_PREVIEW
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:22:17-89
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:22:17-89
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:22:25-87
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:22:25-87
 category#android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:23:17-75
+ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:23:17-75
 	android:name
-		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\10.0.1\AndroidManifest.xml:23:27-73
+		ADDED from [com.google.android.gms:play-services-appinvite:10.0.1] C:\Users\matthew\.android\build-cache\3d942cdcc94a537f8b0fcf59b94a2311a915cee8\output\AndroidManifest.xml:23:27-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:9-189
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:20:9-189
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:129-162
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:20:129-162
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:163-187
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:20:163-187
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:69-128
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:20:69-128
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:20:19-68
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:20:19-68
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:9-184
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:24:9-184
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:64-87
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:24:64-87
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:88-182
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:24:88-182
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\10.0.1\AndroidManifest.xml:24:18-63
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\matthew\.android\build-cache\2adb71a5def59f74efdc02c57cbdf900c558f105\output\AndroidManifest.xml:24:18-63
 receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:5:9-99
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:5:9-99
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:5:19-97
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:5:19-97
 service#com.google.android.gms.cast.framework.media.MediaNotificationService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:6:9-103
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:6:9-103
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:6:18-101
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:6:18-101
 service#com.google.android.gms.cast.framework.ReconnectionService
-ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:7:9-92
+ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:7:9-92
 	android:name
-		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\10.0.1\AndroidManifest.xml:7:18-90
-uses-permission#com.google.android.c2dm.permission.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:22:5-81
-MERGED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\10.0.1\AndroidManifest.xml:20:5-81
-MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\10.0.1\AndroidManifest.xml:20:5-81
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:22:22-79
-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:5-109
-	android:protectionLevel
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:72-107
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:24:17-71
-uses-permission#${applicationId}.permission.C2D_MESSAGE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:5-78
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:26:22-76
-receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:9-36:20
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:85-108
-	android:permission
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:109-169
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:30:19-84
-intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:31:13-35:29
-action#com.google.android.c2dm.intent.RECEIVE
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:17-80
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:32:25-78
-action#com.google.android.c2dm.intent.REGISTRATION
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:17-85
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:33:25-83
-category#${applicationId}
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:17-60
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:34:27-58
-receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:9-119
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:93-117
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:40:19-92
-service#com.google.firebase.iid.FirebaseInstanceIdService
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:9-48:19
-	android:exported
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:83-106
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:44:18-82
-intent-filter#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:13-47:29
-	android:priority
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:45:28-51
-action#com.google.firebase.INSTANCE_ID_EVENT
-ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:17-79
-	android:name
-		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\10.0.1\AndroidManifest.xml:46:25-77
-provider#com.google.firebase.provider.FirebaseInitProvider
-ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:9-194
-	android:authorities
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:19-78
-	android:exported
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:144-168
-	android:initOrder
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:169-192
-	android:name
-		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\10.0.1\AndroidManifest.xml:6:79-143
-receiver#com.google.android.gms.measurement.AppMeasurementReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:7-26:18
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:25:7-26:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:90-112
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:113-137
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:25:17-89
-receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:7-31:18
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:162-184
-	android:permission
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:105-161
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:27:17-104
-intent-filter#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:28:11-30:27
-action#com.android.vending.INSTALL_REFERRER
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:15-76
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:29:23-74
-service#com.google.android.gms.measurement.AppMeasurementService
-ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:7-137
-MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\10.0.1\AndroidManifest.xml:27:7-137
-	android:enabled
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:88-110
-	android:exported
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:111-135
-	android:name
-		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\10.0.1\AndroidManifest.xml:32:16-87
+		ADDED from [com.google.android.gms:play-services-cast-framework:10.0.1] C:\Users\matthew\.android\build-cache\216325b67ba95a114930b5e669576b297bf9b2c9\output\AndroidManifest.xml:7:18-90
 service#com.google.firebase.messaging.FirebaseMessagingService
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:9-27:19
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:23:9-27:19
 	android:exported
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:88-111
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:23:88-111
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:23:18-87
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:23:18-87
 intent-filter#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:13-26:29
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:24:13-26:29
 	android:priority
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:24:28-51
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:24:28-51
 action#com.google.firebase.MESSAGING_EVENT
-ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:17-77
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\10.0.1\AndroidManifest.xml:25:25-75
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\matthew\.android\build-cache\ab2ac9f627a1f529bcdb5bdeba3f2b9b3a8c6207\output\AndroidManifest.xml:25:25-75
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\.android\build-cache\8988beb4d599e0bacda6271b915d96ebbd969fca\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:10.0.1] C:\Users\matthew\.android\build-cache\f88e81e17a1d6d2f774f1e473699f354bdfee4c2\output\AndroidManifest.xml:20:5-81
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.android.gms:play-services-gcm:10.0.1] C:\Users\matthew\.android\build-cache\8988beb4d599e0bacda6271b915d96ebbd969fca\output\AndroidManifest.xml:20:22-79
 service#com.google.android.gms.tagmanager.TagManagerService
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:9-134
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:24:9-134
 	android:enabled
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:110-132
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:24:110-132
 	android:exported
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:85-109
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:24:85-109
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:24:18-84
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:24:18-84
 activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:9-32:20
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:25:9-32:20
 	android:noHistory
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:94-118
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:25:94-118
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:25:19-93
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:25:19-93
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:26:13-31:29
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:26:13-31:29
 data
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:27:17-71
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:27:17-71
 	android:scheme
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:27:23-69
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:27:23-69
 action#android.intent.action.VIEW
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:28:17-68
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:28:17-68
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:28:25-66
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:28:25-66
 category#android.intent.category.BROWSABLE
-ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:30:17-77
+ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:30:17-77
 	android:name
-		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\AndroidStudioProjects\PlanRouteRun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\10.0.1\AndroidManifest.xml:30:27-75
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:10.0.1] C:\Users\matthew\.android\build-cache\d40e974f5e33a2ccf82154540b2c5389b5a6d7de\output\AndroidManifest.xml:30:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\matthew\.android\build-cache\cbd9c96eb3e0009eb41d464108ef2095e1988120\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\matthew\.android\build-cache\6b9764f0ded1a7c2ca2015c697cb280bc99c4158\output\AndroidManifest.xml:32:16-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:44:18-82
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:45:13-47:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:45:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:46:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\matthew\.android\build-cache\cc33bfd95f9ab81cf488752c6f08f3022064dbeb\output\AndroidManifest.xml:46:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\matthew\.android\build-cache\9d55b3ad1d4d461c48d1ed0f163fc9f240c8a75e\output\AndroidManifest.xml:6:79-143
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\matthew\.android\build-cache\ffa78e5b599449348e4b0c9116d540a5ac3d492b\output\AndroidManifest.xml:19:19-85

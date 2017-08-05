@@ -15,6 +15,7 @@
         android:name="com.example.matthew.planrouterun.permission.MAPS_RECEIVE"
         android:protectionLevel="signature" />
 
+    <uses-permission android:name="com.example.matthew.planrouterun.permission.MAPS_RECEIVE" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
@@ -43,7 +44,8 @@
         -->
         <meta-data
             android:name="com.google.android.geo.API_KEY"
-            android:value="@string/google_maps_key" />    <!--This is where AS had by default can move below (See %) -->
+            android:value="AIzaSyA-VmlRbI81SFvfKTVn_gPWMTlRoX5TxyQ" />   <!-- DING DING DING DING DING We have a winner -->
+                                                                        <!--This is where AS had by default can move below (See %) -->
         <meta-data
             android:name="com.google.android.gms.version"
             android:value="@integer/google_play_services_version" />
@@ -61,7 +63,7 @@
         <activity android:name=".MapsActivity"
             android:label="@string/app_name" ></activity>
 
-        <!-- % Here -->
+
     </application>
 
 </manifest>

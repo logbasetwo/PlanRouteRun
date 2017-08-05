@@ -1,7 +1,7 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.planrouterun.app.MapsActivity">
+    tools:context="com.example.matthew.planrouterun.app.MapsActivity">
 
     <item android:id="@+id/action_normal"
         android:title="@string/normal"
@@ -21,6 +21,11 @@
     <item android:id="@+id/action_terrain"
         android:title="@string/terrain"
         android:orderInCategory="103"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/clear_pins"
+        android:title="Clear Pins"
+        android:orderInCategory="104"
         app:showAsAction="never" />
 
 

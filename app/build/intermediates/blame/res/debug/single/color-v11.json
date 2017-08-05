@@ -1,10 +1,10 @@
 [
     {
         "merged": "C:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_dark.xml",
-        "source": "C:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
+        "source": "C:\\Users\\matthew\\.android\\build-cache\\7fad955ed678761d9b6a945d4af894d8c49d95cd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_dark.xml"
     },
     {
         "merged": "C:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\res\\merged\\debug\\color-v11\\abc_background_cache_hint_selector_material_light.xml",
-        "source": "C:\\Users\\matthew\\AndroidStudioProjects\\PlanRouteRun\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.2.1\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
+        "source": "C:\\Users\\matthew\\.android\\build-cache\\7fad955ed678761d9b6a945d4af894d8c49d95cd\\output\\res\\color-v11\\abc_background_cache_hint_selector_material_light.xml"
     }
 ]

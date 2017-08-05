@@ -7,7 +7,7 @@ import android.os.Handler;
 
 public class SplashScreen extends Activity {
 
-    private static int SPLASH_SCREEN_DELAY = 1000; //delay opening activity for 3 seconds (So user can see splash screen)
+    private static int SPLASH_SCREEN_DELAY = 500; //delay opening activity for 3 seconds (So user can see splash screen)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
